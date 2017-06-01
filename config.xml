@@ -7,11 +7,11 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Goldwing Starter</name>
+  <name>Goldwing Led</name>
 
   <description>
-      This App for Goldwing Bike To Start It From Mobile 
-Its crated By Alhanon
+      This App for Goldwing Bike To control led lights  
+Its created By fahad otain
   </description>
 
   <author href="alhanon" email="alhanon@gmail.com">
